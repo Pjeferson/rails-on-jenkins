@@ -2,12 +2,12 @@
 A "Hello World" Ruby on Rails web application with a Jenkinsfile defining it's build/test/deploy pipeline
 
 ## Goals
-- [ ] Create rails webapp
-- [ ] Dockerize
+- [x] Create rails webapp
+- [ ] Setup a heroku deployment environment
 - [ ] Define Jenkins pipeline
   - [ ] Build stage
   - [ ] Test stage
-  - [ ] Deploy stage
+  - [ ] Deploy stage (To Heroku)
   - [ ] Document each definition
 - [ ] Create presentation script
-  
+

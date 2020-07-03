@@ -10,4 +10,3 @@ A "Hello World" Ruby on Rails web application with a Jenkinsfile defining it's b
   - [ ] Deploy stage (To Heroku)
   - [ ] Document each definition
 - [ ] Create presentation script
-

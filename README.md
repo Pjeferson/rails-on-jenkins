@@ -6,8 +6,8 @@ A "Hello World" Ruby on Rails web application with a Jenkinsfile defining it's b
 - [x] Setup a heroku deployment environment
 - [x] Dockerize app
 - [ ] Define Jenkins pipeline
-  - [ ] Build stage
-  - [ ] Test stage
+  - [x] Build stage
+  - [x] Test stage
   - [ ] Deploy stage (To Heroku)
   - [ ] Document each definition
 - [ ] Create presentation script

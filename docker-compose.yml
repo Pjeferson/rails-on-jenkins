@@ -1,0 +1,13 @@
+version: "2"
+
+services:
+  test:
+    build: .
+    volumes:
+      - .:/app
+      - bundle:/bundle
+    environment:
+      RAILS_ENV: test
+
+volumes:
+  bundle:
